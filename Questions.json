@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Berlin", "Madrid", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Newton", "Einstein", "Galileo", "Tesla"],
+        "answer": "Einstein"
+    },
+    {
+        "question": "Which programming language is known as the language of the web?",
+        "options": ["Python", "JavaScript", "C++", "Ruby"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Computer Personal Unit", "Central Power Unit", "Control Processing Unit"],
+        "answer": "Central Processing Unit"
+    }
+]
